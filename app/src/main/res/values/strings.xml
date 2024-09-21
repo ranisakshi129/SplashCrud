@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SplashCrud</string>
+    <string name="submit">Submit</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="welcome_to_jpr">Welcome to JPR</string>
+    <string name="add_user">ADD User</string>
+    <string name="all_userlist">All UserList</string>
+    <string name="jpr">JPR</string>
+    <string name="address">Address</string>
+    <string name="yamuna_nager">yamuna nager</string>
+    <string name="ritik_321">ritik@321</string>
+    <string name="_8826257784">8826257784</string>
+    <string name="ritik_kumar">Ritik Kumar</string>
+</resources>
